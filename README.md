@@ -1,6 +1,5 @@
-# Casting Agency Fullstack Project
+# Casting Agency 
 
-This project is for fullstack Udacity nanodegree, It follows the default specification for creating a management interface for a casting agency.
 
 ## Motivation
 
